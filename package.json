@@ -25,7 +25,7 @@
     "commander": "^2.9.0",
     "express": "^4.15.2",
     "greenkeeper-lockfile": "^1.8.0",
-    "hbs": "^4.0.1",
+    "hbs": "^4.2.0",
     "livereload": "^0.7.0",
     "node-fetch": "^1.6.3",
     "node-sass": "^4.5.2",
