@@ -22,7 +22,7 @@
   "homepage": "https://github.com/mike-works/modern-seo#readme",
   "dependencies": {
     "chalk": "^2.1.0",
-    "commander": "^2.9.0",
+    "commander": "^2.20.3",
     "express": "^4.15.2",
     "greenkeeper-lockfile": "^1.8.0",
     "hbs": "^4.0.1",
